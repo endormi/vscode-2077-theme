@@ -3,14 +3,18 @@
     "displayName": "2077 theme",
     "publisher": "Endormi",
     "description": "Cyberpunk 2077 inspired theme",
-    "repository": "https://github.com/endormi/vscode-2077-theme",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.32.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+		"type": "git",
+        "url": "https://github.com/Eventyret/vscode-bcdn"
+    },
+    "icon": "image/icon.png",
     "contributes": {
         "themes": [
             {

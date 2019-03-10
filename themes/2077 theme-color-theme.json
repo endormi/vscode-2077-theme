@@ -117,7 +117,7 @@
 		"scope": "entity.name.tag",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#0ABDC6"
+			"foreground": "#f147e3"
 		}
 	},
 	{
@@ -125,7 +125,7 @@
 		"scope": "entity.other.attribute-name",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#0ABDC6"
+			"foreground": "#319cf3"
 		}
 	},
 	{
@@ -186,7 +186,7 @@
 		"name": "Invalid deprecated",
 		"scope": "invalid.deprecated",
 		"settings": {
-			"foreground": "#801dad"
+			"foreground": "#57097a"
 		}
 	},
 	{
@@ -196,46 +196,46 @@
 			"meta.diff.header"
 		],
 		"settings": {
-			"foreground": "#629beb"
+			"foreground": "#26a3eb"
 		}
 	},
 	{
 		"name": "diff.deleted",
 		"scope": "markup.deleted",
 		"settings": {
-			"foreground": "#ff2e97"
+			"foreground": "#b11b66"
 		}
 	},
 	{
 		"name": "diff.inserted",
 		"scope": "markup.inserted",
 		"settings": {
-			"foreground": "#FFC97C"
+			"foreground": "#fff132"
 		}
 	},
 	{
 		"name": "diff.changed",
 		"scope": "markup.changed",
 		"settings": {
-			"foreground": "#F9F230"
+			"foreground": "#f1ea0f"
 		}
 	},
 	{
 		"scope": "constant.numeric.line-number.find-in-files - match",
 		"settings": {
-			"foreground": "#F9F230"
+			"foreground": "#e71c71"
 		}
 	},
 	{
 		"scope": "entity.name.filename.find-in-files",
 		"settings": {
-			"foreground": "#FFC97C"
+			"foreground": "#ffdf52"
 		}
 	},
 	{
 		"scope": "keyword.other",
 		"settings": {
-			"foreground": "#6494a9"
+			"foreground": "#5f97af"
 		}
 	},
 	{
