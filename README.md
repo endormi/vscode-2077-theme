@@ -7,17 +7,17 @@
 The base of the theme is copied from [outrun](https://github.com/samrap/outrun-theme-vscode).
 I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 color palette.
 
-## JSON
+### JSON
 
-<img src="https://raw.githubusercontent.com/endormi/vscode-2077-theme/master/image/json.png" alt="2077 Theme for JSON" />
+![JSON](https://imgur.com/OdunM7e)
 
-## Python
+### Python
 
-<img src="https://raw.githubusercontent.com/endormi/vscode-2077-theme/master/image/py.png" alt="2077 Theme for Python" />
+![Python](https://imgur.com/O8Bwbi3)
 
-## HTML
+### HTML
 
-<img src="https://raw.githubusercontent.com/endormi/vscode-2077-theme/master/image/html.png" alt="2077 Theme for HTML" />
+![HTML](https://imgur.com/qC73CFM)
 
 ### This is only the beta release
 
