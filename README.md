@@ -9,15 +9,15 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 
 ### JSON
 
-![JSON](https://imgur.com/OdunM7e)
+![JSON](https://user-images.githubusercontent.com/39559256/54088015-d7a03400-4361-11e9-971a-8882e2f9e75d.PNG)
 
 ### Python
 
-![Python](https://imgur.com/O8Bwbi3)
+![Python](https://user-images.githubusercontent.com/39559256/54088018-db33bb00-4361-11e9-8880-d56fa9742bc1.PNG)
 
 ### HTML
 
-![HTML](https://imgur.com/qC73CFM)
+![HTML](https://user-images.githubusercontent.com/39559256/54088020-de2eab80-4361-11e9-8f69-17a06a3c954e.PNG)
 
 ### This is only the beta release
 
