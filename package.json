@@ -1,0 +1,23 @@
+{
+    "name": "2077-theme",
+    "displayName": "2077 theme",
+    "publisher": "Endormi",
+    "description": "Cyberpunk 2077 inspired theme",
+    "repository": "https://github.com/endormi/vscode-2077-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "2077",
+                "uiTheme": "vs-dark",
+                "path": "./themes/2077 theme-color-theme.json"
+            }
+        ]
+    }
+}
