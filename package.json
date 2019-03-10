@@ -11,8 +11,8 @@
         "Themes"
     ],
     "repository": {
-		"type": "git",
-        "url": "https://github.com/Eventyret/vscode-bcdn"
+	"type": "git",
+        "url": "https://github.com/endormi/vscode-2077-theme"
     },
     "icon": "image/icon.png",
     "contributes": {
