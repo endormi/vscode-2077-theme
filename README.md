@@ -1,5 +1,7 @@
 # 2077 Theme
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/endormi/vscode-2077-theme.svg)
+
 [Cyberpunk 2077](https://www.cyberpunk.net/en/) inspired theme.
 
 The base of the theme is copied from [outrun](https://github.com/samrap/outrun-theme-vscode).
