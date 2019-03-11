@@ -9,7 +9,7 @@
 			"string.quoted.docstring.multi.python"
 		],
 		"settings": {
-		  "foreground": "#7984D1",
+		  "foreground": "#0ABDC6",
 		  "fontStyle": "italic"
 		}
 	  },
@@ -17,7 +17,7 @@
 		"name": "String",
 		"scope": "string",
 		"settings": {
-			"foreground": "#7984D1"
+			"foreground": "#0ABDC6"
 		}
 	},
 	{
@@ -31,7 +31,7 @@
 		"name": "Built-in constant",
 		"scope": "constant.language",
 		"settings": {
-			"foreground": "#7984D1"
+			"foreground": "#ff2e97"
 		}
 	},
 	{
@@ -55,7 +55,8 @@
 		"name": "Keyword",
 		"scope": "keyword",
 		"settings": {
-			"foreground": "#EA00D9"
+			"foreground": "#ca00bd"
+			// "foreground": "#ffd400"
 		}
 	},
 	{
@@ -117,7 +118,8 @@
 		"scope": "entity.name.tag",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#f147e3"
+			// "foreground": "#f147e3"
+			"foreground": "#ff2e97"
 		}
 	},
 	{
@@ -125,7 +127,7 @@
 		"scope": "entity.other.attribute-name",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#319cf3"
+			"foreground": "#ff2e97"
 		}
 	},
 	{
@@ -186,7 +188,7 @@
 		"name": "Invalid deprecated",
 		"scope": "invalid.deprecated",
 		"settings": {
-			"foreground": "#57097a"
+			"foreground": "#0ABDC6"
 		}
 	},
 	{
@@ -328,7 +330,7 @@
 		"scope": "keyword.other.phpdoc.php",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#484f7d"
+			"foreground": "#299af7"
 		}
 	},
 	{
@@ -338,7 +340,7 @@
 			"meta.other.type.phpdoc.php"
 		],
 		"settings": {
-			"foreground": "#1b52a0"
+			"foreground": "#0ABDC6"
 		}
 	},
 	{
@@ -540,10 +542,10 @@
 		"inputOption.activeBorder": "#ff9b50",
   
 		// Scrollbar Control
-		"scrollbar.shadow":"#7200f57e",
-		"scrollbarSlider.activeBackground":"#5b00c4",
-		"scrollbarSlider.background":"#6500c4de",
-		"scrollbarSlider.hoverBackground":"#9199d9b4",
+		"scrollbar.shadow":"#3d045e",
+		"scrollbarSlider.activeBackground":"#4a019e",
+		"scrollbarSlider.background":"#3d045e",
+		"scrollbarSlider.hoverBackground":"#838cd4b4",
   
 		// Activity Bar
 		"activityBar.background": "#080422",
@@ -581,7 +583,7 @@
 		// Git Colors
 		"gitDecoration.modifiedResourceForeground":"#ffd400",
 		"gitDecoration.deletedResourceForeground":"#ac06a1",
-		"gitDecoration.untrackedResourceForeground":"#5ca3d3",
+		"gitDecoration.untrackedResourceForeground":"#299ae6",
 		"gitDecoration.ignoredResourceForeground":"#216eda",
 		"gitDecoration.conflictingResourceForeground":"#4687e0",
   
