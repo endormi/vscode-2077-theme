@@ -3,6 +3,10 @@ All notable changes to the "2077-theme" extension will be documented in this fil
 
 **Beta versions (Once the theme is published, v. releases will be more consistent)**
 
+## [0.1.5]
+- Updated git colors
+- Updaed support.constant
+
 ## [0.1.0]
 - Edited scrollbar
 - Edited strings, keywords, constants, entities etc.

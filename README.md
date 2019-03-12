@@ -2,7 +2,7 @@
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/endormi/vscode-2077-theme.svg)
 
-[Cyberpunk 2077](https://www.cyberpunk.net/) game inspired theme.
+[Cyberpunk 2077](https://www.cyberpunk.net/) (highly anticipated game) inspired theme.
 
 The base of the theme is copied from [outrun](https://github.com/samrap/outrun-theme-vscode).
 I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 color palette.
@@ -17,7 +17,7 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 
 ### Python
 
-![Python](https://user-images.githubusercontent.com/39559256/54088018-db33bb00-4361-11e9-8880-d56fa9742bc1.PNG)
+![Python](https://user-images.githubusercontent.com/39559256/54124886-3c17cd80-440c-11e9-93be-1879c0abcf3d.PNG)
 
 ### This is only the beta release
 

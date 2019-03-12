@@ -3,7 +3,7 @@
     "displayName": "2077 theme",
     "publisher": "Endormi",
     "description": "Cyberpunk 2077 inspired theme",
-    "version": "0.1.0",
+    "version": "0.1.5",
     "engines": {
         "vscode": "^1.32.0"
     },

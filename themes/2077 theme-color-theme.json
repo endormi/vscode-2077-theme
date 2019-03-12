@@ -143,7 +143,7 @@
 		"scope": "support.constant",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#A3D6E0"
+			"foreground": "#6dc9db"
 		}
 	},
 	{
@@ -582,10 +582,10 @@
   
 		// Git Colors
 		"gitDecoration.modifiedResourceForeground":"#ffd400",
-		"gitDecoration.deletedResourceForeground":"#ac06a1",
-		"gitDecoration.untrackedResourceForeground":"#299ae6",
+		"gitDecoration.deletedResourceForeground":"#d407c7",
+		"gitDecoration.untrackedResourceForeground":"#029aff",
 		"gitDecoration.ignoredResourceForeground":"#216eda",
-		"gitDecoration.conflictingResourceForeground":"#4687e0",
+		"gitDecoration.conflictingResourceForeground":"#5e93dd",
   
 		// Integrated Terminal
 		"terminal.background":"#0c0a20",
