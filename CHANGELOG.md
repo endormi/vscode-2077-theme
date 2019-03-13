@@ -1,7 +1,10 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
-**Beta versions (Once the theme is published, v. releases will be more consistent)**
+## [1.0.0]
+- Marketplace release
+
+**Beta versions**
 
 ## [0.1.5]
 - Updated git colors
