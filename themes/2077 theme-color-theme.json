@@ -563,9 +563,9 @@
 		"panel.background": "#0f0d2c",
 		"panel.border": "#221e5a",
 		"panel.dropBackground": "#fffffff1",
-		"panelTitle.activeBorder": "#242066",
-		"panelTitle.activeForeground": "#0f0c30",
-		"panelTitle.inactiveForeground": "#13103b",
+		"panelTitle.activeBorder": "#312c8a",
+		"panelTitle.activeForeground": "#ff2e97",
+		"panelTitle.inactiveForeground": "#b400a8",
   
 		// Peek View
 		"peekView.border": "#ffd400",
