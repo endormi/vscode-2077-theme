@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.0.2]
+- Fixed compatibility issue
+
 ## [1.0.1]
 - Fixed terminal colors
 
