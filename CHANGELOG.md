@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.0.3]
+- Fixed selection blend issue
+- Find match edit
+- Hover and Word highlight edit
+- Active border update 
+- Editor warning update
+- Terminal color (ansi.black)
+
 ## [1.0.2]
 - Fixed compatibility issue
 
