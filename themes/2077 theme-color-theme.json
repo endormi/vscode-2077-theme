@@ -237,7 +237,7 @@
 	{
 		"scope": "keyword.other",
 		"settings": {
-			"foreground": "#5f97af"
+			"foreground": "#74afc9"
 		}
 	},
 	{
@@ -247,7 +247,7 @@
 			"constant.other.color"
 		],
 		"settings": {
-			"foreground": "#cccccc"
+			"foreground": "#ff15ef"
 		}
 	},
 	{
@@ -321,7 +321,7 @@
 		"name": "Function argument",
 		"scope": "variable.other",
 		"settings": {
-			"foreground": "#ffffff",
+			"foreground": "#ff2e97",
 			"fontStyle": ""
 		}
 	},

@@ -1,6 +1,6 @@
 # 2077 Theme
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/endormi/vscode-2077-theme.svg)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/endormi.2077-theme.svg?color=gre&label=marketplace%20version)](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
 
 [Cyberpunk 2077](https://www.cyberpunk.net/) (highly anticipated game) inspired theme.
 
@@ -26,6 +26,24 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 ### Python
 
 ![Python](https://user-images.githubusercontent.com/39559256/54124886-3c17cd80-440c-11e9-93be-1879c0abcf3d.PNG)
+
+## Support
+
+| Description       | Extensions         | Support  |
+| ------------- |:-------------:| -----:|
+| HTML      | .html | ✅ |
+| CSS      | .css      |   ✅ |
+| Config files | .editorconfig, .ini      |  ✅ |
+| JavaScript | .js     |  ✅ |
+| JSON | .json      |  ✅ |
+| Markdown | .md      |  ✅ |
+| CoffeeScript | .coffee     |  ✅ |
+| React | .jsx     |  ✅ |
+| Typescript | .ts     |  ✅ |
+| Python | .py     |  ✅ |
+| Yaml | .yml     | ✅ |
+
+**Some extensions are not tested**
 
 If any issues occur or you have ideas for new improvements, please open up a new [issue](https://github.com/endormi/vscode-2077-theme/issues).
 

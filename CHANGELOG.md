@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.0.4]
+- Added support
+- Property value, keyword constant edit
+- Function argument update
+
 ## [1.0.3]
 - Fixed selection blend issue
 - Find match edit
