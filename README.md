@@ -45,6 +45,7 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 | React | .jsx     |  ✅ |
 | Typescript | .ts     |  ✅ |
 | Python | .py     |  ✅ |
+| PHP | .php     |  ✅ |
 | Yaml | .yml     | ✅ |
 
 **Some extensions are not tested**

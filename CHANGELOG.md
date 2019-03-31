@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.0.5]
+- Added image
+- PHP support
+
 ## [1.0.4]
 - Added support
 - Property value, keyword constant edit
