@@ -19,6 +19,10 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 
 ![JSON](https://user-images.githubusercontent.com/39559256/54088015-d7a03400-4361-11e9-971a-8882e2f9e75d.PNG)
 
+### JavaScript
+
+![JavaScript](https://user-images.githubusercontent.com/39559256/55287667-8c9f9c80-53b4-11e9-8a44-9ecc0709f276.PNG)
+
 ### HTML
 
 ![HTML](https://user-images.githubusercontent.com/39559256/54119977-4d0e1200-43ff-11e9-8289-3e7fcc835a61.PNG)
