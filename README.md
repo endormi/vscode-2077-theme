@@ -48,8 +48,6 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 | PHP | .php     |  ✅ |
 | Yaml | .yml     | ✅ |
 
-**Some extensions are not tested**
-
 If any issues occur or you have ideas for new improvements, please open up a new [issue](https://github.com/endormi/vscode-2077-theme/issues).
 
 **Enjoy!**
