@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.0.8]
+- Updated editor selection background
+- Editor highlight background edit
+
 ## [1.0.7]
 - Update progressbar.background
 - Editor widget edit
