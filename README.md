@@ -1,6 +1,6 @@
 # 2077 Theme
 
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/endormi.2077-theme.svg?color=gre&label=marketplace%20version)](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/endormi.2077-theme.svg?color=gre&label=Marketplace%20version)](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
 
 [Cyberpunk 2077](https://www.cyberpunk.net/) (highly anticipated game) inspired theme.
 

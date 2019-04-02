@@ -500,9 +500,9 @@
 		"editorRuler.foreground":"#181b29",
 		"editorIndentGuide.background": "#21243a",
 		"editorIndentGuide.activeBackground": "#1b52a0",
-		"editorError.foreground": "#ca0fbe",
-		"editorWarning.foreground": "#ffd859",
-		"editorInfo.foreground": "#86b2f0",
+		"editorError.foreground": "#e613d7",
+		"editorWarning.foreground": "#fad96d",
+		"editorInfo.foreground": "#95bffa",
   
 		// Editor Widget Colors
 		"editorWidget.background":"#030d22",
