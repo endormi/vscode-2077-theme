@@ -481,7 +481,7 @@
 		"button.foreground":"#f9faff",
   
 		// Progress Bar
-		"progressBar.background":"#EA00D9",
+		"progressBar.background":"#fa0dea",
   
 		// Editor
 		"editor.background": "#030d22",
@@ -507,8 +507,8 @@
 		// Editor Widget Colors
 		"editorWidget.background":"#030d22",
 		"editorWidget.border":"#030d22",
-		"editorHoverWidget.background": "#3b4167",
-		"editorHoverWidget.border": "#3b4167",
+		"editorHoverWidget.background": "#383e69",
+		"editorHoverWidget.border": "#2d324e",
   
 		// Editor Groups & Tabs
 		"editorGroup.dropBackground": "#020a1b",

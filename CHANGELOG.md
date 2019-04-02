@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.0.7]
+- Update progressbar.background
+- Editor widget edit
+
 ## [1.0.6]
 - Updated editor foreground color to be more lighter
 - Badge update
