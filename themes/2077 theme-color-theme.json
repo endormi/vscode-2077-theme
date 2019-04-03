@@ -513,12 +513,12 @@
 		// Editor Groups & Tabs
 		"editorGroup.dropBackground": "#020a1b",
 		"editorGroupHeader.noTabsBackground": "#03102c",
-		"editorGroupHeader.tabsBackground": "#0d0b24",
+		"editorGroupHeader.tabsBackground": "#0f0d2c",
 		"tab.activeBackground": "#161130",
 		"tab.activeForeground": "#f9faff",
-		"tab.inactiveBackground": "#0c0a20",
-		"tab.inactiveForeground": "#5790e0",
-		"tab.border": "#161130",
+		"tab.inactiveBackground": "#0f0d29",
+		"tab.inactiveForeground": "#62a3fd",
+		"tab.border": "#161031",
   
 		// Side Bar
 		"sideBar.background": "#030d22",

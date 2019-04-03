@@ -1,6 +1,18 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.1.2]
+- Update tabs and group tabs
+
+## [1.1.1]
+- Moved image content
+- Ignore vsc-extension-quickstart.md
+
+## [1.1.0]
+- Update image header
+- Add HTML5
+- Edit support header
+
 ## [1.0.9]
 - Removed **some extensions are not tested**
 
