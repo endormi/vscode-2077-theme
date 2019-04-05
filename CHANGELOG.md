@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.1.5]
+- Updated editor group tabs
+- Edit activity bar
+- Update status bar
+- Update panel colors
+
 ## [1.1.4]
 - Update icon
 

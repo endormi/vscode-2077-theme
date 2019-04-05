@@ -511,8 +511,8 @@
 		"editorHoverWidget.border": "#2d324e",
   
 		// Editor Groups & Tabs
-		"editorGroup.dropBackground": "#020a1b",
-		"editorGroupHeader.noTabsBackground": "#03102c",
+		"editorGroup.dropBackground": "#031130",
+		"editorGroupHeader.noTabsBackground": "#031233",
 		"editorGroupHeader.tabsBackground": "#0f0d2c",
 		"tab.activeBackground": "#161130",
 		"tab.activeForeground": "#f9faff",
@@ -548,24 +548,24 @@
 		"scrollbarSlider.hoverBackground":"#838cd4b4",
   
 		// Activity Bar
-		"activityBar.background": "#080422",
-		"activityBar.foreground": "#ff2e97",
-		"activityBarBadge.background":"#da1b7a",
+		"activityBar.background": "#0a052c",
+		"activityBar.foreground": "#ff2592",
+		"activityBarBadge.background":"#d31b77",
 		"activityBarBadge.foreground":"#ffffff",
   
 		// Status Bar
-		"statusBar.background":"#060422",
+		"statusBar.background":"#08052c",
 		"statusBar.foreground":"#4d8bee",
-		"statusBar.noFolderBackground":"#030d22",
+		"statusBar.noFolderBackground":"#030d24",
 		"statusBar.noFolderForeground": "#ffffff",
   
 		// Panel Colors
-		"panel.background": "#0f0d2c",
-		"panel.border": "#221e5a",
+		"panel.background": "#0f0d2e",
+		"panel.border": "#1b184e",
 		"panel.dropBackground": "#fffffff1",
-		"panelTitle.activeBorder": "#312c8a",
-		"panelTitle.activeForeground": "#ff2e97",
-		"panelTitle.inactiveForeground": "#b400a8",
+		"panelTitle.activeBorder": "#2e2988",
+		"panelTitle.activeForeground": "#ff2693",
+		"panelTitle.inactiveForeground": "#8f0085",
   
 		// Peek View
 		"peekView.border": "#ffd400",
