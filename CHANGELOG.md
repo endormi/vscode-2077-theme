@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.1.4]
+- Update icon
+
 ## [1.1.3]
 - Added more badges
 
