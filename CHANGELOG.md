@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the "2077-theme" extension will be documented in this file.
 
+## [1.1.6]
+- Update titlebar
+- Update git decoration
+- Update terminal
+- Add .gitignore
+
 ## [1.1.5]
 - Updated editor group tabs
 - Edit activity bar
