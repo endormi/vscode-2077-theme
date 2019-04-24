@@ -39,12 +39,15 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 | ------------- |:-------------:| -----:|
 | HTML      | .html | ✅ |
 | CSS      | .css      |   ✅ |
+| SASS      | .scss      |   ✅ |
 | Config files | .editorconfig, .ini      |  ✅ |
 | JavaScript | .js     |  ✅ |
 | JSON | .json      |  ✅ |
 | Markdown | .md      |  ✅ |
+| Makefile | Makefile      |  ✅ |
 | CoffeeScript | .coffee     |  ✅ |
 | React | .jsx     |  ✅ |
+| Ruby | .rb     |  ✅ |
 | Typescript | .ts     |  ✅ |
 | Python | .py     |  ✅ |
 | PHP | .php     |  ✅ |

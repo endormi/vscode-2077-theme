@@ -1,5 +1,11 @@
 # Change Log
-All notable changes to the "2077-theme" extension will be documented in this file.
+All notable changes to the **"2077-theme"** extension will be documented in this file.
+
+## [1.1.7]
+- Add support for Ruby
+- Add support for SASS
+- Add support for Makefile
+- Update beta versions heading and "2077-theme"
 
 ## [1.1.6]
 - Update titlebar
@@ -72,7 +78,7 @@ All notable changes to the "2077-theme" extension will be documented in this fil
 ## [1.0.0]
 - Marketplace release
 
-**Beta versions**
+### Beta versions
 
 ## [0.1.5]
 - Updated git colors
