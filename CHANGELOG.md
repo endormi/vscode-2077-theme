@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.1.8]
+- Add support for Java
+
 ## [1.1.7]
 - Add support for Ruby
 - Add support for SASS

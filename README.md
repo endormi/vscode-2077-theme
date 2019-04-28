@@ -42,6 +42,7 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 | SASS      | .scss      |   ✅ |
 | Config files | .editorconfig, .ini      |  ✅ |
 | JavaScript | .js     |  ✅ |
+| Java | .java    |  ✅ |
 | JSON | .json      |  ✅ |
 | Markdown | .md      |  ✅ |
 | Makefile | Makefile      |  ✅ |
