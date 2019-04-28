@@ -39,6 +39,9 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 | ------------- |:-------------:| -----:|
 | HTML      | .html | ✅ |
 | CSS      | .css      |   ✅ |
+| C      | .c      |   ✅ |
+| C++      | .cc      |   ✅ |
+| Clojure      | .clj      |   ✅ |
 | SASS      | .scss      |   ✅ |
 | Config files | .editorconfig, .ini      |  ✅ |
 | JavaScript | .js     |  ✅ |
@@ -49,6 +52,7 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 | CoffeeScript | .coffee     |  ✅ |
 | React | .jsx     |  ✅ |
 | Ruby | .rb     |  ✅ |
+| Rust | .rs     |  ✅ |
 | Typescript | .ts     |  ✅ |
 | Python | .py     |  ✅ |
 | PHP | .php     |  ✅ |

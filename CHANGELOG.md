@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.1.9]
+- Add support for C
+- Add support for C++
+- Add support for Clojure
+- Add support for Rust
+
 ## [1.1.8]
 - Add support for Java
 
