@@ -48,6 +48,7 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 | Java | .java    |  ✅ |
 | JSON | .json      |  ✅ |
 | Markdown | .md      |  ✅ |
+| GoLang / Go | .go      |  ✅ |
 | Makefile | Makefile      |  ✅ |
 | CoffeeScript | .coffee     |  ✅ |
 | React | .jsx     |  ✅ |

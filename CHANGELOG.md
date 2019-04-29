@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.2.0]
+- Add support for Go
+- Update matchHighlightBackground
+- Update gitDecoration
+- Update terminal.background, ansiBlack & ansiGreen
+
 ## [1.1.9]
 - Add support for C
 - Add support for C++
