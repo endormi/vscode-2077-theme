@@ -560,18 +560,18 @@
 		"statusBar.noFolderForeground": "#ffffff",
   
 		// Panel Colors
-		"panel.background": "#0f0d2e",
-		"panel.border": "#1b184e",
+		"panel.background": "#0b092b",
+		"panel.border": "#1a184b",
 		"panel.dropBackground": "#fffffff1",
-		"panelTitle.activeBorder": "#2e2988",
-		"panelTitle.activeForeground": "#ff2693",
-		"panelTitle.inactiveForeground": "#8f0085",
+		"panelTitle.activeBorder": "#221d75",
+		"panelTitle.activeForeground": "#f51e8a",
+		"panelTitle.inactiveForeground": "#94008a",
   
 		// Peek View
 		"peekView.border": "#ffd400",
 		"peekViewEditor.background": "#f8f8f8",
 		"peekViewEditor.matchHighlightBackground": "#0f084e",
-		"peekViewEditor.matchHighlightBorder": "#0f0a3b",
+		"peekViewEditor.matchHighlightBorder": "#0a0066",
 		"peekViewResult.background": "#110a4d",
 		"peekViewResult.selectionBackground": "#ffd400",
 		"peekViewTitle.background": "#6861cf",

@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.2.1]
+- Update panel colors
+- Update peek view colors
+
 ## [1.2.0]
 - Add support for Go
 - Update matchHighlightBackground
