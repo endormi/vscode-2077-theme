@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.2.3]
+- Update UI (editor groups and tabs & status bar)
+- Made background colors a little bit lighter
+
 ## [1.2.2]
 - Update variable color
 - Update README.md

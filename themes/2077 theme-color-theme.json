@@ -489,20 +489,20 @@
 		"editorLineNumber.foreground":"#511c64",
 		"editorLineNumber.activeForeground": "#0ABDC6",
 		"editorCursor.foreground": "#ff2e97",
-		"editor.selectionBackground": "#083461",
+		"editor.selectionBackground": "#06315c",
 		"editor.selectionHighlightBackground": "#032b42",
-		"editor.findMatchBackground": "#112a58",
+		"editor.findMatchBackground": "#0e2652",
 		"editor.findMatchHighlightBackground": "#5c659e94",
 		"editor.hoverHighlightBackground":"#06435e",
 		"editor.wordHighlightBackground":"#2f0149d5",
 		"editor.wordHighlightStrongBackground":"#2a7ea163",
 		"editor.lineHighlightBackground": "#191338",
 		"editorRuler.foreground":"#181b29",
-		"editorIndentGuide.background": "#21243a",
-		"editorIndentGuide.activeBackground": "#1b52a0",
-		"editorError.foreground": "#e613d7",
-		"editorWarning.foreground": "#fad96d",
-		"editorInfo.foreground": "#95bffa",
+		"editorIndentGuide.background": "#1c203b",
+		"editorIndentGuide.activeBackground": "#114286",
+		"editorError.foreground": "#da0e9d",
+		"editorWarning.foreground": "#fad46d",
+		"editorInfo.foreground": "#87b9ff",
   
 		// Editor Widget Colors
 		"editorWidget.background":"#030d22",
@@ -511,14 +511,14 @@
 		"editorHoverWidget.border": "#2d324e",
   
 		// Editor Groups & Tabs
-		"editorGroup.dropBackground": "#031130",
-		"editorGroupHeader.noTabsBackground": "#031233",
+		"editorGroup.dropBackground": "#04173f",
+		"editorGroupHeader.noTabsBackground": "#03163f",
 		"editorGroupHeader.tabsBackground": "#0f0d2c",
 		"tab.activeBackground": "#161130",
 		"tab.activeForeground": "#f9faff",
-		"tab.inactiveBackground": "#0f0d29",
+		"tab.inactiveBackground": "#131033",
 		"tab.inactiveForeground": "#62a3fd",
-		"tab.border": "#161031",
+		"tab.border": "#171033",
   
 		// Side Bar
 		"sideBar.background": "#030d22",
@@ -554,9 +554,9 @@
 		"activityBarBadge.foreground":"#ffffff",
   
 		// Status Bar
-		"statusBar.background":"#08052c",
+		"statusBar.background":"#0a0631",
 		"statusBar.foreground":"#4d8bee",
-		"statusBar.noFolderBackground":"#030d24",
+		"statusBar.noFolderBackground":"#04102c",
 		"statusBar.noFolderForeground": "#ffffff",
   
 		// Panel Colors
