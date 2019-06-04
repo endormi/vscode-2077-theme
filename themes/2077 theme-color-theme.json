@@ -9,7 +9,7 @@
 			"string.quoted.docstring.multi.python"
 		],
 		"settings": {
-		  "foreground": "#0ABDC6",
+		  "foreground": "#0082b9",
 		  "fontStyle": "italic"
 		}
 	  },

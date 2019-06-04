@@ -1,13 +1,16 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.2.4]
+- Update comment color
+
 ## [1.2.3]
 - Update UI (editor groups and tabs & status bar)
-- Made background colors a little bit lighter
+- Made background colors a lighter color
 
 ## [1.2.2]
 - Update variable color
-- Update README.md
+- Update README
 
 ## [1.2.1]
 - Update panel colors
@@ -57,7 +60,7 @@ All notable changes to the **"2077-theme"** extension will be documented in this
 
 ## [1.1.1]
 - Moved image content
-- Ignore vsc-extension-quickstart.md
+- Ignore vsc-extension-quickstart
 
 ## [1.1.0]
 - Update image header
