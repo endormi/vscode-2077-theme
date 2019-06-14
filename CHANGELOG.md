@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.2.7]
+- TypeScript for language showcase purposes
+
 ## [1.2.6]
 - Remove React demo, but not the image
 
