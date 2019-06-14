@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.2.6]
+- Remove React demo, but not the image
+
 ## [1.2.5]
 - Better images and remove unneeded images
 - Add couple of demos for showcase
