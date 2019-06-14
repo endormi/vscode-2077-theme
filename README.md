@@ -17,21 +17,21 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 4. Click **Reload** to reload the your editor
 5. Code > Preferences > Color Theme > **2077**
 
-## HTML5
+## Python
 
-![HTML](https://user-images.githubusercontent.com/39559256/54119977-4d0e1200-43ff-11e9-8289-3e7fcc835a61.PNG)
+![py](https://user-images.githubusercontent.com/39559256/59502733-2e5c6300-8ea7-11e9-87d9-5b186c482bbd.PNG)
 
 ## JavaScript
 
-![JavaScript](https://user-images.githubusercontent.com/39559256/55287667-8c9f9c80-53b4-11e9-8a44-9ecc0709f276.PNG)
+![js](https://user-images.githubusercontent.com/39559256/59502682-1258c180-8ea7-11e9-8ab5-287642eb30ce.PNG)
 
-## JSON
+## React
 
-![JSON](https://user-images.githubusercontent.com/39559256/54088015-d7a03400-4361-11e9-971a-8882e2f9e75d.PNG)
+![react](https://user-images.githubusercontent.com/39559256/59502752-3fa56f80-8ea7-11e9-81f1-e5d7230ee6e7.png)
 
-## Python
+## TypeScript
 
-![Python](https://user-images.githubusercontent.com/39559256/54124886-3c17cd80-440c-11e9-93be-1879c0abcf3d.PNG)
+![ts](https://user-images.githubusercontent.com/39559256/59502784-564bc680-8ea7-11e9-8c6f-3752ee02a384.PNG)
 
 ### Support
 

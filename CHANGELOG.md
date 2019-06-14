@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.2.5]
+- Better images and remove unneeded images
+- Add couple of demos for showcase
+
 ## [1.2.4]
 - Update comment color
 
