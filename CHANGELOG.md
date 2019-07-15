@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.2.8]
+- Add java demo code and image
+- JavaScript for repository language purposes
+
 ## [1.2.7]
 - TypeScript for language showcase purposes
 

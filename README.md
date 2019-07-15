@@ -29,6 +29,10 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 
 ![react](https://user-images.githubusercontent.com/39559256/59502752-3fa56f80-8ea7-11e9-81f1-e5d7230ee6e7.png)
 
+## Java
+
+![java](https://user-images.githubusercontent.com/39559256/61230780-691a1b00-a733-11e9-99fc-cb5f0a1d5422.PNG)
+
 ## TypeScript
 
 ![ts](https://user-images.githubusercontent.com/39559256/59502784-564bc680-8ea7-11e9-8c6f-3752ee02a384.PNG)
