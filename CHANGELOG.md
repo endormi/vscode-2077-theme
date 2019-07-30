@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.2.9]
+- Rename folder to be singular
+- Update editorInfo and editorIndentGuide foreground
+- Update word- and hoverHighlight background
+- Centered badges and texts
+
 ## [1.2.8]
 - Add java demo code and image
 - JavaScript for repository language purposes
