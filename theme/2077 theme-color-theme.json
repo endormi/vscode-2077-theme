@@ -488,13 +488,13 @@
 		"editor.foreground": "#ebecf8",
 		"editorLineNumber.foreground":"#511c64",
 		"editorLineNumber.activeForeground": "#0ABDC6",
-		"editorCursor.foreground": "#ff2e97",
-		"editor.selectionBackground": "#06315c",
-		"editor.selectionHighlightBackground": "#032b42",
-		"editor.findMatchBackground": "#0e2652",
+		"editorCursor.foreground": "#ee0077",
+		"editor.selectionBackground": "#083e75",
+		"editor.selectionHighlightBackground": "#004166",
+		"editor.findMatchBackground": "#082355",
 		"editor.findMatchHighlightBackground": "#1f30a0da",
 		"editor.hoverHighlightBackground":"#00346e",
-		"editor.wordHighlightBackground":"#2f0149d5",
+		"editor.wordHighlightBackground":"#3c005fd5",
 		"editor.wordHighlightStrongBackground":"#2a7ea163",
 		"editor.lineHighlightBackground": "#191338",
 		"editorRuler.foreground":"#181b29",
@@ -507,7 +507,7 @@
 		// Editor Widget Colors
 		"editorWidget.background":"#030d22",
 		"editorWidget.border":"#030d22",
-		"editorHoverWidget.background": "#383e69",
+		"editorHoverWidget.background": "#293066",
 		"editorHoverWidget.border": "#2d324e",
   
 		// Editor Groups & Tabs

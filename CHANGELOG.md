@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.3.0]
+- Update editorCursor foreground 
+- Update selection and selectionHighlight background
+- Update findMatch, wordHighlight and HoverWidget background
+
 ## [1.2.9]
 - Rename folder to be singular
 - Update editorInfo and editorIndentGuide foreground
