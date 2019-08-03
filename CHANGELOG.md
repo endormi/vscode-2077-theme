@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.3.1]
+- Update support function and constant foreground
+- Update invalid deprecated, diff (header, deleted) foreground, GitGutter and template expression foreground
+- Update scrollbar, panelTitle and peekViewTitle colors
+- Centered description text
+
 ## [1.3.0]
 - Update editorCursor foreground 
 - Update selection and selectionHighlight background
@@ -69,7 +75,7 @@ All notable changes to the **"2077-theme"** extension will be documented in this
 - Add .gitignore
 
 ## [1.1.5]
-- Updated editor group tabs
+- Update editor group tabs
 - Edit activity bar
 - Update status bar
 - Update panel colors
@@ -96,7 +102,7 @@ All notable changes to the **"2077-theme"** extension will be documented in this
 - Removed **some extensions are not tested**
 
 ## [1.0.8]
-- Updated editor selection background
+- Update editor selection background
 - Editor highlight background edit
 
 ## [1.0.7]
@@ -104,7 +110,7 @@ All notable changes to the **"2077-theme"** extension will be documented in this
 - Editor widget edit
 
 ## [1.0.6]
-- Updated editor foreground color to be more lighter
+- Update editor foreground color to be more lighter
 - Badge update
 
 ## [1.0.5]
@@ -136,8 +142,8 @@ All notable changes to the **"2077-theme"** extension will be documented in this
 ### Beta versions
 
 ## [0.1.5]
-- Updated git colors
-- Updaed support.constant
+- Update git colors
+- Update support.constant
 
 ## [0.1.0]
 - Edited scrollbar

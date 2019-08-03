@@ -17,7 +17,7 @@
   </a>
 </p>
 
-[Cyberpunk 2077](https://www.cyberpunk.net/) (highly anticipated game) inspired theme.
+<p align="center"><a href="https://www.cyberpunk.net">Cyberpunk 2077</a> (highly anticipated game) inspired theme.</p>
 
 The base of the theme is copied from [outrun](https://github.com/samrap/outrun-theme-vscode).
 I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 color palette.

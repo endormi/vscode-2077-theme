@@ -9,7 +9,7 @@
 			"string.quoted.docstring.multi.python"
 		],
 		"settings": {
-		  "foreground": "#0082b9",
+		  "foreground": "#0084bd",
 		  "fontStyle": "italic"
 		}
 	  },
@@ -135,7 +135,7 @@
 		"scope": "support.function",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#F9F230"
+			"foreground": "#ffd400"
 		}
 	},
 	{
@@ -143,7 +143,7 @@
 		"scope": "support.constant",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#6dc9db"
+			"foreground": "#0ABDC6"
 		}
 	},
 	{
@@ -188,7 +188,7 @@
 		"name": "Invalid deprecated",
 		"scope": "invalid.deprecated",
 		"settings": {
-			"foreground": "#0ABDC6"
+			"foreground": "#007379"
 		}
 	},
 	{
@@ -198,14 +198,14 @@
 			"meta.diff.header"
 		],
 		"settings": {
-			"foreground": "#26a3eb"
+			"foreground": "#0e75b1"
 		}
 	},
 	{
 		"name": "diff.deleted",
 		"scope": "markup.deleted",
 		"settings": {
-			"foreground": "#b11b66"
+			"foreground": "#960e52"
 		}
 	},
 	{
@@ -446,7 +446,7 @@
 		"name": "GitGutter deleted",
 		"scope": "markup.deleted.git_gutter",
 		"settings": {
-			"foreground": "#EA00D9"
+			"foreground": "#99008f"
 		}
 	},
 	{
@@ -460,14 +460,14 @@
 		"name": "GitGutter changed",
 		"scope": "markup.changed.git_gutter",
 		"settings": {
-			"foreground": "#FFC97C"
+			"foreground": "#f1ac4b"
 		}
 	},
 	{
 		"name": "Template expressions.",
 		"scope": "meta.template.expression",
 		"settings": {
-			"foreground": "#b6ced8"
+			"foreground": "#4388a5"
 		}
 	}
 	],
@@ -542,8 +542,8 @@
 		"inputOption.activeBorder": "#ffd650",
   
 		// Scrollbar Control
-		"scrollbar.shadow":"#3d045e",
-		"scrollbarSlider.activeBackground":"#4a019e",
+		"scrollbar.shadow":"#330050",
+		"scrollbarSlider.activeBackground":"#3e0085",
 		"scrollbarSlider.background":"#3d045e",
 		"scrollbarSlider.hoverBackground":"#838cd4b4",
   
@@ -564,8 +564,8 @@
 		"panel.border": "#1a184b",
 		"panel.dropBackground": "#fffffff1",
 		"panelTitle.activeBorder": "#221d75",
-		"panelTitle.activeForeground": "#f51e8a",
-		"panelTitle.inactiveForeground": "#94008a",
+		"panelTitle.activeForeground": "#ff2592",
+		"panelTitle.inactiveForeground": "#77006f",
   
 		// Peek View
 		"peekView.border": "#ffd400",
@@ -574,7 +574,7 @@
 		"peekViewEditor.matchHighlightBorder": "#0a0066",
 		"peekViewResult.background": "#110a4d",
 		"peekViewResult.selectionBackground": "#ffd400",
-		"peekViewTitle.background": "#6861cf",
+		"peekViewTitle.background": "#372dc9",
 		"peekViewTitleDescription.foreground": "#a8c3e2",
   
 		// Title Bar Colors
