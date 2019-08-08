@@ -489,15 +489,15 @@
 		"editorLineNumber.foreground":"#511c64",
 		"editorLineNumber.activeForeground": "#0ABDC6",
 		"editorCursor.foreground": "#ee0077",
-		"editor.selectionBackground": "#083e75",
-		"editor.selectionHighlightBackground": "#004166",
+		"editor.selectionBackground": "#053769",
+		"editor.selectionHighlightBackground": "#003f63",
 		"editor.findMatchBackground": "#082355",
-		"editor.findMatchHighlightBackground": "#1f30a0da",
+		"editor.findMatchHighlightBackground": "#1a2a94da",
 		"editor.hoverHighlightBackground":"#00346e",
 		"editor.wordHighlightBackground":"#3c005fd5",
 		"editor.wordHighlightStrongBackground":"#2a7ea163",
-		"editor.lineHighlightBackground": "#191338",
-		"editorRuler.foreground":"#181b29",
+		"editor.lineHighlightBackground": "#18113d",
+		"editorRuler.foreground":"#191e35",
 		"editorIndentGuide.background": "#19204b",
 		"editorIndentGuide.activeBackground": "#114286",
 		"editorError.foreground": "#da0e9d",
@@ -505,19 +505,19 @@
 		"editorInfo.foreground": "#00429e",
   
 		// Editor Widget Colors
-		"editorWidget.background":"#030d22",
-		"editorWidget.border":"#030d22",
-		"editorHoverWidget.background": "#293066",
+		"editorWidget.background":"#04112c",
+		"editorWidget.border":"#030f27",
+		"editorHoverWidget.background": "#222858",
 		"editorHoverWidget.border": "#2d324e",
   
 		// Editor Groups & Tabs
-		"editorGroup.dropBackground": "#04173f",
+		"editorGroup.dropBackground": "#03153b",
 		"editorGroupHeader.noTabsBackground": "#03163f",
 		"editorGroupHeader.tabsBackground": "#0f0d2c",
-		"tab.activeBackground": "#161130",
+		"tab.activeBackground": "#1d1641",
 		"tab.activeForeground": "#f9faff",
-		"tab.inactiveBackground": "#131033",
-		"tab.inactiveForeground": "#62a3fd",
+		"tab.inactiveBackground": "#141138",
+		"tab.inactiveForeground": "#599eff",
 		"tab.border": "#171033",
   
 		// Side Bar
@@ -536,9 +536,9 @@
 		"list.warningForeground": "#a10299",
   
 		// Input Control
-		"input.background": "#0c092b",
+		"input.background": "#0d0931",
 		"input.placeholderForeground": "#f3f3f3",
-		"input.border": "#0a0729",
+		"input.border": "#0b082e",
 		"inputOption.activeBorder": "#ffd650",
   
 		// Scrollbar Control

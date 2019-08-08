@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.3.2]
+- Update editor background and foreground
+- Update editorWidget, editorGroup, tab and input background
+
 ## [1.3.1]
 - Update support function and constant foreground
 - Update invalid deprecated, diff (header, deleted) foreground, GitGutter and template expression foreground
