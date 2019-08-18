@@ -19,9 +19,6 @@
 
 <p align="center"><a href="https://www.cyberpunk.net">Cyberpunk 2077</a> (highly anticipated game) inspired theme.</p>
 
-The base of the theme is copied from [outrun](https://github.com/samrap/outrun-theme-vscode).
-I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 color palette.
-
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
@@ -34,31 +31,43 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
   JavaScript
 </h2>
 
-![js](https://user-images.githubusercontent.com/39559256/59502682-1258c180-8ea7-11e9-8ab5-287642eb30ce.PNG)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39559256/59502682-1258c180-8ea7-11e9-8ab5-287642eb30ce.PNG" alt="JavaScript">
+</p>
 
 <h2 align="center">
   React
 </h2>
 
-![react](https://user-images.githubusercontent.com/39559256/59502752-3fa56f80-8ea7-11e9-81f1-e5d7230ee6e7.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39559256/59502752-3fa56f80-8ea7-11e9-81f1-e5d7230ee6e7.png" alt="React">
+</p>
 
 <h2 align="center">
   Python
 </h2>
 
-![py](https://user-images.githubusercontent.com/39559256/59502733-2e5c6300-8ea7-11e9-87d9-5b186c482bbd.PNG)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39559256/59502733-2e5c6300-8ea7-11e9-87d9-5b186c482bbd.PNG" alt="Python">
+</p>
 
 <h2 align="center">
   Java
 </h2>
 
-![java](https://user-images.githubusercontent.com/39559256/61230780-691a1b00-a733-11e9-99fc-cb5f0a1d5422.PNG)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39559256/61230780-691a1b00-a733-11e9-99fc-cb5f0a1d5422.PNG" alt="Java">
+</p>
 
 <h2 align="center">
   TypeScript
 </h2>
 
-![ts](https://user-images.githubusercontent.com/39559256/59502784-564bc680-8ea7-11e9-8c6f-3752ee02a384.PNG)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39559256/59502784-564bc680-8ea7-11e9-8c6f-3752ee02a384.PNG" alt="TypeScript">
+</p>
 
 ### Support
 
@@ -84,6 +93,10 @@ I edited the theme quite a bit to make it more similar to the Cyberpunk 2077 col
 | Python | .py     |  ✅ |
 | PHP | .php     |  ✅ |
 | Yaml | .yml     | ✅ |
+
+## Credits
+
+Inspired by [samrap's](https://github.com/samrap) awesome [outrun](https://github.com/samrap/outrun-theme-vscode) theme. I edited the theme quite significantly to follow the Cyberpunk 2077 color palette.
 
 If any issues occur or you have ideas for new improvements, please open up a new [issue](https://github.com/endormi/vscode-2077-theme/issues) | [Icon](https://www.freepik.com/free-vector/night-city-skyline-background_1276620.htm)
 
