@@ -12,9 +12,6 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme#review-details">
     <img src="https://img.shields.io/visual-studio-marketplace/stars/endormi.2077-theme.svg?color=yellow&label=Rating&style=popout-square" alt="stars" />
   </a>
-  <a href="https://github.com/endormi/vscode-2077-theme/issues">
-    <img src="https://img.shields.io/github/issues-raw/endormi/vscode-2077-theme.svg?color=blue&label=Open%20issues&style=popout-square" alt="issues" />
-  </a>
 </p>
 
 <p align="center"><a href="https://www.cyberpunk.net">Cyberpunk 2077</a> (highly anticipated game) inspired theme.</p>
@@ -32,33 +29,23 @@
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/59502682-1258c180-8ea7-11e9-8ab5-287642eb30ce.PNG" alt="JavaScript">
+<img src="https://user-images.githubusercontent.com/39559256/64077989-7ccb1200-ccde-11e9-90a0-4d556b2d51a5.PNG" alt="JavaScript">
 </p>
 
 <h2 align="center">
   React
 </h2>
 
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/59502752-3fa56f80-8ea7-11e9-81f1-e5d7230ee6e7.png" alt="React">
-</p>
-
-<h2 align="center">
-  Python
-</h2>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/59502733-2e5c6300-8ea7-11e9-87d9-5b186c482bbd.PNG" alt="Python">
+<img src="https://user-images.githubusercontent.com/39559256/64078006-8eacb500-ccde-11e9-9d56-9ab71170951c.png" alt="React">
 </p>
 
 <h2 align="center">
   Java
 </h2>
 
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/61230780-691a1b00-a733-11e9-99fc-cb5f0a1d5422.PNG" alt="Java">
+<img src="https://user-images.githubusercontent.com/39559256/64077974-5e651680-ccde-11e9-8e50-109c1fe93a35.PNG" alt="Java">
 </p>
 
 <h2 align="center">
@@ -66,7 +53,7 @@
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/59502784-564bc680-8ea7-11e9-8c6f-3752ee02a384.PNG" alt="TypeScript">
+<img src="https://user-images.githubusercontent.com/39559256/64078013-9ec49480-ccde-11e9-9b0b-6f9af0b7199c.PNG" alt="TypeScript">
 </p>
 
 ### Support

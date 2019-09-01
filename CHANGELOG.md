@@ -1,6 +1,19 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.3.4]
+- Update variable.parameter color
+- Update coffeescript function argument
+- Update peekview editor, git.decoration & terminal colors
+- Update keywords, constant, storage, function arguments, variables, invalid and diff colors
+- Update editor colors
+- Update list colors
+- Update input, statusBar, panel colors
+- Update peekView colors
+- Update terminal colors
+- Update images
+- Remove issues badge
+
 ## [1.3.3]
 - Update docs
 
