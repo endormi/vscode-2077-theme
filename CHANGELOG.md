@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.3.6]
+- Update editor colors
+
 ## [1.3.5]
 - Update editor.selectionBackground & selectionHighlightBackground
 
