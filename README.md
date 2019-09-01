@@ -6,9 +6,6 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme">
     <img src="https://img.shields.io/visual-studio-marketplace/v/endormi.2077-theme.svg?color=purple&label=Marketplace%20version&style=popout-square" alt="version" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/d/Endormi.2077-theme?style=flat-square" alt="downloads" />
-  </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme#review-details">
     <img src="https://img.shields.io/visual-studio-marketplace/stars/endormi.2077-theme.svg?color=yellow&label=Rating&style=popout-square" alt="stars" />
   </a>
