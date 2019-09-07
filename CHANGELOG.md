@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.3.8]
+- Update panel, editor, peekView colors
+- Update gitDecoration
+
 ## [1.3.7]
 - Update lineNumber foreground
 - Remove downloads badge

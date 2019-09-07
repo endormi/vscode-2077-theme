@@ -496,15 +496,15 @@
 		"editor.findMatchBackground": "#00308a",
 		"editor.findMatchHighlightBackground": "#06178ada",
 		"editor.hoverHighlightBackground":"#00438f",
-		"editor.wordHighlightBackground":"#3a0070d5",
+		"editor.wordHighlightBackground":"#420080d5",
 		"editor.wordHighlightStrongBackground":"#12618363",
 		"editor.lineHighlightBackground": "#1c1347",
-		"editorRuler.foreground":"#192452",
+		"editorRuler.foreground":"#11215e",
 		"editorIndentGuide.background": "#1d2fa5",
 		"editorIndentGuide.activeBackground": "#004fbe",
-		"editorError.foreground": "#da0e9d",
+		"editorError.foreground": "#ce0b93",
 		"editorWarning.foreground": "#fad46d",
-		"editorInfo.foreground": "#720b9b",
+		"editorInfo.foreground": "#6c0994",
   
 		// Editor Widget Colors
 		"editorWidget.background":"#04112c",
@@ -563,18 +563,18 @@
   
 		// Panel Colors
 		"panel.background": "#130f4e",
-		"panel.border": "#222064",
+		"panel.border": "#222069",
 		"panel.dropBackground": "#ff2592",
-		"panelTitle.activeBorder": "#221d75",
+		"panelTitle.activeBorder": "#ff2592",
 		"panelTitle.activeForeground": "#ff2592",
-		"panelTitle.inactiveForeground": "#77006f",
+		"panelTitle.inactiveForeground": "#d600dd",
   
 		// Peek View
 		"peekView.border": "#ffd400",
 		"peekViewEditor.background": "#1971f770",
-		"peekViewEditor.matchHighlightBackground": "#140d53",
+		"peekViewEditor.matchHighlightBackground": "#120961",
 		"peekViewEditor.matchHighlightBorder": "#34006e",
-		"peekViewResult.background": "#1e156e",
+		"peekViewResult.background": "#1a1079",
 		"peekViewResult.selectionBackground": "#ffd400",
 		"peekViewTitle.background": "#372dc9",
 		"peekViewTitleDescription.foreground": "#3076c5",
@@ -584,7 +584,7 @@
   
 		// Git Colors
 		"gitDecoration.modifiedResourceForeground":"#fdd81d",
-		"gitDecoration.deletedResourceForeground":"#d407c7",
+		"gitDecoration.deletedResourceForeground":"#c000b3",
 		"gitDecoration.untrackedResourceForeground":"#029aff",
 		"gitDecoration.ignoredResourceForeground":"#2295ca",
 		"gitDecoration.conflictingResourceForeground":"#3d80dd",
