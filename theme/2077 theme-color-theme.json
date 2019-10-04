@@ -478,8 +478,8 @@
 		"descriptionForeground": "#f9faff",
   
 		// Buttons
-		"button.background":"#0ABDC6",
-		"button.hoverBackground": "#0ABDC6",
+		"button.background":"#087eb4",
+		"button.hoverBackground": "#0074aa",
 		"button.foreground":"#f9faff",
   
 		// Progress Bar
@@ -525,10 +525,10 @@
 		// Side Bar
 		"sideBar.background": "#030d22",
 		"sideBarSectionHeader.background": "#04112e",
-		"sideBarSectionHeader.foreground": "#299af7",
+		"sideBarSectionHeader.foreground": "#1f9aff",
   
 		// Lists & Trees
-		"list.activeSelectionBackground": "#062a61",
+		"list.activeSelectionBackground": "#073170",
 		"list.activeSelectionForeground": "#ffffff",
 		"list.dropBackground": "#063475",
 		"list.focusBackground": "#06306e",
@@ -550,7 +550,7 @@
 		"scrollbarSlider.hoverBackground":"#838cd4b4",
   
 		// Activity Bar
-		"activityBar.background": "#0a052c",
+		"activityBar.background": "#0e0741",
 		"activityBar.foreground": "#ff2592",
 		"activityBarBadge.background":"#d31b77",
 		"activityBarBadge.foreground":"#ffffff",

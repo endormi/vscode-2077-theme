@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.3.9]
+- Update buttons, sidebars, lists and activityBar
+- Update images and other minor updates
+
 ## [1.3.8]
 - Update panel, editor, peekView colors
 - Update gitDecoration

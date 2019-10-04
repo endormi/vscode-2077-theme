@@ -38,6 +38,15 @@
 </p>
 
 <h2 align="center">
+  Python
+</h2>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39559256/66210740-342ebc00-e6c3-11e9-9e4c-d42e021b2d04.PNG" alt="Python">
+</p>
+
+
+<h2 align="center">
   Java
 </h2>
 
@@ -52,31 +61,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/39559256/64078013-9ec49480-ccde-11e9-9b0b-6f9af0b7199c.PNG" alt="TypeScript">
 </p>
-
-### Support
-
-| Description       | Extensions         | Support  |
-| ------------- |:-------------:| -----:|
-| HTML      | .html | ✅ |
-| CSS      | .css      |   ✅ |
-| C      | .c      |   ✅ |
-| C++      | .cc      |   ✅ |
-| Clojure      | .clj      |   ✅ |
-| SASS      | .scss      |   ✅ |
-| Config files | .editorconfig, .ini      |  ✅ |
-| JavaScript | .js     |  ✅ |
-| Java | .java    |  ✅ |
-| JSON | .json      |  ✅ |
-| Markdown | .md      |  ✅ |
-| GoLang / Go | .go      |  ✅ |
-| CoffeeScript | .coffee     |  ✅ |
-| React | .jsx     |  ✅ |
-| Ruby | .rb     |  ✅ |
-| Rust | .rs     |  ✅ |
-| Typescript | .ts     |  ✅ |
-| Python | .py     |  ✅ |
-| PHP | .php     |  ✅ |
-| Yaml | .yml     | ✅ |
 
 ## Credits
 
