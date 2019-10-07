@@ -550,7 +550,7 @@
 		"scrollbarSlider.hoverBackground":"#838cd4b4",
   
 		// Activity Bar
-		"activityBar.background": "#0e0741",
+		"activityBar.background": "#030d22",
 		"activityBar.foreground": "#ff2592",
 		"activityBarBadge.background":"#d31b77",
 		"activityBarBadge.foreground":"#ffffff",
@@ -562,8 +562,8 @@
 		"statusBar.noFolderForeground": "#ffffff",
   
 		// Panel Colors
-		"panel.background": "#130f4e",
-		"panel.border": "#222069",
+		"panel.background": "#0e0952",
+		"panel.border": "#181657",
 		"panel.dropBackground": "#ff2592",
 		"panelTitle.activeBorder": "#ff2592",
 		"panelTitle.activeForeground": "#ff2592",
