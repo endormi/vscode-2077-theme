@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.4.1]
+- Update LineNumber and HoverHighlight
+- Update images
+
 ## [1.4.0]
 - Match activityBar color with editor.Background
 - Update panel colors
@@ -14,7 +18,7 @@ All notable changes to the **"2077-theme"** extension will be documented in this
 - Update gitDecoration
 
 ## [1.3.7]
-- Update lineNumber foreground
+- Update LineNumber foreground
 - Remove downloads badge
 
 ## [1.3.6]
