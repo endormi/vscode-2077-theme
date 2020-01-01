@@ -1,199 +1,294 @@
 # Change Log
-All notable changes to the **"2077-theme"** extension will be documented in this file.
+All changes to the **"2077-theme"** extension will be documented in this file.
+
+## [1.4.2]
+
+- Add:
+    - Meta, entity and punctuation definitions
+    - Language specific color changes (JS, TS, Python)
+
+- Update:
+    - Significant color improvements
 
 ## [1.4.1]
-- Update LineNumber and HoverHighlight
-- Update images
+
+- Update:
+    - Line number and hover highlight color
+    - Images
 
 ## [1.4.0]
-- Match activityBar color with editor.Background
-- Update panel colors
+
+- Update:
+    - Match activity bar color with editor background
+    - Panel colors
 
 ## [1.3.9]
-- Update buttons, sidebars, lists and activityBar
-- Update images and other minor updates
+
+- Update:
+    - Buttons, sidebars, lists and activity bar colors
+    - Images and other minor updates
 
 ## [1.3.8]
-- Update panel, editor, peekView colors
-- Update gitDecoration
+
+- Update:
+    - Panel, peek view and git decoration colors
 
 ## [1.3.7]
-- Update LineNumber foreground
-- Remove downloads badge
+
+- Update:
+    - Line number foreground color
+
+- Remove:
+    - Downloads badge
 
 ## [1.3.6]
-- Update editor colors
+
+- Update:
+    - Hover highlight, word highlight, ruler and indent guide colors
 
 ## [1.3.5]
-- Update editor.selectionBackground & selectionHighlightBackground
+
+- Update:
+    - Selection background and selection highlight background color
 
 ## [1.3.4]
-- Update variable.parameter color
-- Update coffeescript function argument
-- Update peekView, editor, list, git.decoration & terminal colors
-- Update keywords, constant, storage, function arguments, variables, invalid and diff colors
-- Update input, statusBar, panel colors
-- Update images
-- Remove issues badge
+
+- Update:
+    - Variable parameter color and coffeescript function argument
+    - Peek view, list view, git decoration and terminal colors
+    - Keywords, constant, storage, function arguments, variables, invalid and diff colors
+    - Input, status bar, panel colors
+    - Images
+
+- Remove:
+    - Issues badge
 
 ## [1.3.3]
-- Update docs
+
+- Update:
+    - Documentation
 
 ## [1.3.2]
-- Update editor background and foreground
-- Update editorWidget, editorGroup, tab and input background
+
+- Update:
+    - Editor background, foreground, widget, group, tab and input background color
 
 ## [1.3.1]
-- Update support function and constant foreground
-- Update invalid deprecated, diff (header, deleted) foreground, GitGutter and template expression foreground
-- Update scrollbar, panelTitle and peekViewTitle colors
-- Centered description text
+
+- Update:
+    - Support function and constant foreground color
+    - Invalid deprecated, diff (header, deleted) foreground, git gutter and template expression foreground color
+    - Scroll bar, panel title and peek view title colors
+    - Center description text
 
 ## [1.3.0]
-- Update editorCursor foreground 
-- Update selection and selectionHighlight background
-- Update findMatch, wordHighlight and HoverWidget background
+
+- Update:
+    - Cursor foreground, selection and selection highlight background color
+    - Find match, word highlight and hover widget background color
 
 ## [1.2.9]
-- Rename folder to be singular
-- Update editorInfo and editorIndentGuide foreground
-- Update word- and hoverHighlight background
-- Centered badges and texts
+
+- Update:
+    - Rename folder to be singular
+    - Info and indent guide foreground color
+    - Word and hover highlight background color
+    - Center badges and texts
 
 ## [1.2.8]
-- Add java demo code and image
-- JavaScript for repository language purposes
+
+- Add:
+    - Java demo code and image
+    - JavaScript for repository language purposes
 
 ## [1.2.7]
-- TypeScript for language showcase purposes
+
+- Add:
+    - TypeScript for language showcase purposes
 
 ## [1.2.6]
-- Remove React demo, but not the image
+
+- Remove:
+    - Remove React demo
 
 ## [1.2.5]
-- Better images and remove unneeded images
-- Add couple of demos for showcase
+
+- Add:
+    - Better images and remove unneeded images
+    - Couple of demos for showcase
 
 ## [1.2.4]
-- Update comment color
+
+- Update:
+    - Comment color
 
 ## [1.2.3]
-- Update UI (editor groups and tabs & status bar)
-- Made background colors a lighter color
+
+- Update:
+    - Group tabs, status bar and background colors
 
 ## [1.2.2]
-- Update variable color
-- Update README
+
+- Update:
+    - Variable color
 
 ## [1.2.1]
-- Update panel colors
-- Update peek view colors
+
+- Update:
+    - Panel colors and peek view colors
 
 ## [1.2.0]
-- Add support for Go
-- Update matchHighlightBackground
-- Update gitDecoration
-- Update terminal.background, ansiBlack & ansiGreen
+
+- Add:
+    - Support for Go
+
+- Update:
+    - Highlight background and git decoration colors
+    - Terminal background, ansi black and ansi green colors
 
 ## [1.1.9]
-- Add support for C
-- Add support for C++
-- Add support for Clojure
-- Add support for Rust
+
+- Add:
+    - Support for C
+    - Support for C++
+    - Support for Clojure
+    - Support for Rust
 
 ## [1.1.8]
-- Add support for Java
+
+- Add:
+    - Support for Java
 
 ## [1.1.7]
-- Add support for Ruby
-- Add support for SASS
-- Add support for Makefile
-- Update beta versions heading and "2077-theme"
+
+- Add:
+    - Support for Ruby
+    - Support for SASS
+    - Support for Makefile
+
+- Update:
+    - Beta versions heading and "2077-theme"
 
 ## [1.1.6]
-- Update titlebar
-- Update git decoration
-- Update terminal
-- Add .gitignore
+
+- Update:
+    - Ttitle bar, git decoration and terminal colors
 
 ## [1.1.5]
-- Update editor group tabs
-- Edit activity bar
-- Update status bar
-- Update panel colors
+
+- Update:
+    - Group tabs, activity bar, status bar and panel colors
 
 ## [1.1.4]
-- Update icon
+
+- Update:
+    - Icon
 
 ## [1.1.3]
-- Added more badges
+
+- Add:
+    - Badges
 
 ## [1.1.2]
-- Update tabs and group tabs
+
+- Update:
+    - Tabs and group tabs
 
 ## [1.1.1]
-- Moved image content
-- Ignore vsc-extension-quickstart
+
+- Update:
+    - Move image content
+    - Ignore `vsc-extension-quickstart`
 
 ## [1.1.0]
-- Update image header
-- Add HTML5
-- Edit support header
+
+- Add:
+    - HTML5
+
+- Update:
+    - Image header
+    - Support header
 
 ## [1.0.9]
-- Removed **some extensions are not tested**
+
+- Remove:
+    - **Some extensions are not tested** message
 
 ## [1.0.8]
-- Update editor selection background
-- Editor highlight background edit
+
+- Update
+    - Selection background and highlight background colors
 
 ## [1.0.7]
-- Update progressbar.background
-- Editor widget edit
+
+- Update:
+    - Progressbar background and widget colors
 
 ## [1.0.6]
-- Update editor foreground color to be more lighter
-- Badge update
+
+- Update:
+    - Editor foreground color
+    - Badge
 
 ## [1.0.5]
-- Added image
-- PHP support
+
+- Add:
+    - Image
+
+- Update:
+    - PHP colors
 
 ## [1.0.4]
-- Added support
-- Property value, keyword constant edit
-- Function argument update
+
+- Add:
+    - Support
+
+- Update:
+    - Property value, keyword constant and function argument colors
 
 ## [1.0.3]
-- Fixed selection blend issue
-- Find match edit
-- Hover and Word highlight edit
-- Active border update 
-- Editor warning update
-- Terminal color (ansi.black)
+
+- Fix:
+    - Selection blend issue
+
+- Update:
+    - Find match, hover and word highlight colors
+    - Active border and editor warning color
 
 ## [1.0.2]
-- Fixed compatibility issue
+
+- Fix:
+    - Fix compatibility issue
 
 ## [1.0.1]
-- Fixed terminal colors
+
+- Update:
+    - Terminal colors
 
 ## [1.0.0]
-- Marketplace release
+
+- Release:
+    - Marketplace release
 
 ### Beta versions
 
 ## [0.1.5]
-- Update git colors
-- Update support.constant
+
+- Update:
+    - Update git colors and support constant
 
 ## [0.1.0]
-- Edited scrollbar
-- Edited strings, keywords, constants, entities etc.
-- New image
+
+- Add:
+    - Image
+
+- Update:
+    - Scrollbar strings, keywords, constants and entities colors
 
 ## [0.0.5]
-- Quick color palette changes
+
+- Update:
+    - Color palette changes
 
 ## [0.0.1]
 - Beta release

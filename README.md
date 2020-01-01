@@ -26,7 +26,7 @@
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/67148999-b49e1100-f2ae-11e9-9930-4b4a1a91866e.PNG" alt="JavaScript">
+<img src="https://user-images.githubusercontent.com/39559256/71638885-b43dd100-2c74-11ea-82b3-854d8418c9f5.PNG" alt="JavaScript">
 </p>
 
 <h2 align="center">
@@ -34,7 +34,7 @@
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/67149005-c384c380-f2ae-11e9-96a2-e5e46a2fdbd1.png" alt="React">
+<img src="https://user-images.githubusercontent.com/39559256/71638890-d8011700-2c74-11ea-8472-18ae05fad34e.PNG" alt="React">
 </p>
 
 <h2 align="center">
@@ -42,7 +42,7 @@
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/67149012-d4cdd000-f2ae-11e9-8c8e-0add64497207.PNG" alt="TypeScript">
+<img src="https://user-images.githubusercontent.com/39559256/71638905-0bdc3c80-2c75-11ea-8f38-db407767c90d.PNG" alt="TypeScript">
 </p>
 
 <h2 align="center">
@@ -50,7 +50,7 @@
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/67148986-8c161700-f2ae-11e9-9e7d-65bdac961175.PNG" alt="Java">
+<img src="https://user-images.githubusercontent.com/39559256/71638877-835d9c00-2c74-11ea-950c-4b117d08f7bb.PNG" alt="Java">
 </p>
 
 ## Credits
