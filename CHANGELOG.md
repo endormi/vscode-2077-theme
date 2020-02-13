@@ -1,6 +1,16 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.4.3]
+
+- Update:
+    - Status bar, button hover and markups
+    - Entity, function arguments, storages and other minor color changes
+
+- Remove:
+    - Images
+    - Demos
+
 ## [1.4.2]
 
 - Add:
