@@ -1,6 +1,15 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.4.4]
+
+- Add:
+    - Vue specific color change.
+
+- Update:
+    - Editor findmatch, hover and word highlight
+    - Strings, constants, keywords, metas and other minor color changes.
+
 ## [1.4.3]
 
 - Update:
