@@ -1,14 +1,19 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.4.5]
+
+- Update:
+    - Variable parameter and entity other
+
 ## [1.4.4]
 
 - Add:
-    - Vue specific color change.
+    - Vue specific color change
 
 - Update:
     - Editor findmatch, hover and word highlight
-    - Strings, constants, keywords, metas and other minor color changes.
+    - Strings, constants, keywords, metas and other minor color changes
 
 ## [1.4.3]
 
@@ -17,8 +22,7 @@ All changes to the **"2077-theme"** extension will be documented in this file.
     - Entity, function arguments, storages and other minor color changes
 
 - Remove:
-    - Images
-    - Demos
+    - Images and demos
 
 ## [1.4.2]
 
