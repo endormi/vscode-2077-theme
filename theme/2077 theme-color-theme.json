@@ -664,9 +664,9 @@
 
 		// Scrollbar Control
 		"scrollbar.shadow":"#992293",
-		"scrollbarSlider.activeBackground":"#d31b77",
-		"scrollbarSlider.background":"#ee0077",
-		"scrollbarSlider.hoverBackground":"#5994CE",
+		"scrollbarSlider.activeBackground":"#d31b7755",
+		"scrollbarSlider.background":"#ee007755",
+		"scrollbarSlider.hoverBackground":"#5994CE55",
 
 		// Activity Bar
 		"activityBar.background": "#030d22",
