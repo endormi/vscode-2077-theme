@@ -663,10 +663,10 @@
 		"inputOption.activeBorder": "#ffd650",
 
 		// Scrollbar Control
-		"scrollbar.shadow":"#992293",
-		"scrollbarSlider.activeBackground":"#d31b77",
-		"scrollbarSlider.background":"#ee0077",
-		"scrollbarSlider.hoverBackground":"#5994CE",
+		"scrollbar.shadow":"#ff25ed57",
+		"scrollbarSlider.activeBackground":"#ff29944f",
+		"scrollbarSlider.background":"#fc309654",
+		"scrollbarSlider.hoverBackground":"#ee0077",
 
 		// Activity Bar
 		"activityBar.background": "#030d22",

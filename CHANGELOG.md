@@ -1,6 +1,11 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.4.6]
+
+- Update:
+    - Scrollbar
+
 ## [1.4.5]
 
 - Update:
