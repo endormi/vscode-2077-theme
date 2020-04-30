@@ -574,7 +574,7 @@
 		"name": "GitGutter inserted",
 		"scope": "markup.inserted.git_gutter",
 		"settings": {
-			"foreground": "#dfd700"
+			"foreground": "#ffd400"
 		}
 	},
 	{
@@ -660,7 +660,7 @@
 		"input.background": "#0d0931",
 		"input.placeholderForeground": "#f3f3f3",
 		"input.border": "#150f53",
-		"inputOption.activeBorder": "#ffd650",
+		"inputOption.activeBorder": "#ffd400",
 
 		// Scrollbar Control
 		"scrollbar.shadow":"#ff25ed57",
@@ -705,10 +705,10 @@
 
 		// Git Colors
 		"gitDecoration.modifiedResourceForeground":"#fdd81d",
-		"gitDecoration.deletedResourceForeground":"#c000b3",
+		"gitDecoration.deletedResourceForeground":"#d800ca",
 		"gitDecoration.untrackedResourceForeground":"#0097fc",
-		"gitDecoration.ignoredResourceForeground":"#1393ce",
-		"gitDecoration.conflictingResourceForeground":"#378aff",
+		"gitDecoration.ignoredResourceForeground":"#1183b8",
+		"gitDecoration.conflictingResourceForeground":"#ec0076",
 
 		// Integrated Terminal
 		"terminal.background":"#0d0936",

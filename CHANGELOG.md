@@ -1,20 +1,29 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.4.7]
+
+- Add:
+    - GitHub issue templates
+
+- Update:
+    - Git decoration foreground colors
+    - Git gutter inserted and input option active border colors
+
 ## [1.4.6]
 
 - Update:
-    - Scrollbar
+    - Scrollbar color
 
 ## [1.4.5]
 
 - Update:
-    - Variable parameter and entity other
+    - Variable parameter and entity other color
 
 ## [1.4.4]
 
 - Add:
-    - Vue specific color change
+    - Vue html color change
 
 - Update:
     - Editor findmatch, hover and word highlight
