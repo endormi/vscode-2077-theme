@@ -13,13 +13,21 @@
 
 <p align="center"><a href="https://www.cyberpunk.net">Cyberpunk 2077</a> (highly anticipated game) inspired theme.</p>
 
-# Installation
+## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `2077 theme` - find the one by **Endormi**.
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor
 5. Code > Preferences > Color Theme > **2077**
+
+<h2 align="center">
+  Preview Image
+</h2>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39559256/82760050-ce31a900-9df9-11ea-8cbb-c499b285fd58.PNG" alt="Preview">
+</p>
 
 ## Credits
 

@@ -1,6 +1,11 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.4.8]
+
+- Add:
+    - Preview image
+
 ## [1.4.7]
 
 - Add:
@@ -209,7 +214,7 @@ All changes to the **"2077-theme"** extension will be documented in this file.
 ## [1.1.6]
 
 - Update:
-    - Ttitle bar, git decoration and terminal colors
+    - Title bar, git decoration and terminal colors
 
 ## [1.1.5]
 
