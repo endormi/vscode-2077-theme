@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<p align="center"><a href="https://www.cyberpunk.net">Cyberpunk 2077</a> (highly anticipated game) inspired theme.</p>
+<p align="center"><a href="https://www.cyberpunk.net">Cyberpunk 2077</a> inspired theme.</p>
 
 ## Installation
 

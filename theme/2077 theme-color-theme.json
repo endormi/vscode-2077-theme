@@ -92,9 +92,21 @@
 			"meta.jsx.children.tsx"
 		  ],
 		"settings": {
-			"foreground": "#ff2e97"
+			"foreground": "#ffd400"
 		}
 	},
+	{
+		"name": "Variable Other Object JSX",
+		"scope": [
+			"variable.other.object.js",
+			"variable.other.object.jsx",
+			"variable.object.property.js",
+			"variable.object.property.jsx"
+		],
+		"settings": {
+		  "foreground": "#40a9ff"
+		}
+	  },
 	{
 		"name": "Punctuation Parameters",
 		"scope": "punctuation.definition.parameters",

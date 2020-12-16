@@ -1,6 +1,12 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.4.9]
+
+- Update
+    - Better JSX highlighting
+    - README.md
+
 ## [1.4.8]
 
 - Add:
