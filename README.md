@@ -21,6 +21,9 @@
 4. Click **Reload** to reload the your editor
 5. Code > Preferences > Color Theme > **2077**
 
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
+- [Open VSX Registry](https://open-vsx.org/extension/Endormi/2077-theme)
+
 <h2 align="center">
   Preview Image
 </h2>

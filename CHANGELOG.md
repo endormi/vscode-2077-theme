@@ -1,6 +1,11 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.5.0]
+
+- Add:
+    - Publish theme to Open VSX Registry
+
 ## [1.4.9]
 
 - Update
