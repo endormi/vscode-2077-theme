@@ -1,6 +1,15 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.5.1]
+
+- Add:
+    - Link title, Code block and Inline code for Markdown
+    - New version publish script
+
+- Update:
+    - Names
+
 ## [1.5.0]
 
 - Add:

@@ -478,14 +478,21 @@
 		}
 	  },
 	{
-		"name": "Markdown Titles",
+		"name": "Markdown titles",
 		"scope": "entity.name.section.markdown",
 		"settings": {
 			"foreground": "#ff2e97"
 		}
 	},
 	{
-		"name": "Markdown Title Hash",
+		"name": "Markdown link title",
+		"scope": "string.other.link.title.markdown",
+		"settings": {
+		  "foreground": "#ff2e97"
+		}
+	},
+	{
+		"name": "Markdown title hash",
 		"scope": "punctuation.definition.heading.markdown",
 		"settings": {
 			"foreground": "#ff2e97"
@@ -562,7 +569,27 @@
 		}
 	},
 	{
-		"name": "Markdown - Paragraph",
+		"name": "Markdown code block",
+		"scope": [
+		  "fenced_code.block.language",
+		  "markup.inline.raw.markdown"
+		],
+		"settings": {
+		  "foreground": "#ff2e97"
+		}
+	},
+	{
+		"name": "Markdown inline code",
+		"scope": [
+		  "fenced_code.block.language",
+		  "markup.inline.raw.markdown"
+		],
+		"settings": {
+		  "foreground": "#ff2e97"
+		}
+	},
+	{
+		"name": "Markdown paragraph",
 		"scope": "meta.paragraph.markdown",
 		"settings": {
 		  "foreground": "#e1efff"
