@@ -18,7 +18,7 @@
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `2077 theme` - find the one by **Endormi**.
 3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor
+4. Click **Reload** to reload your editor
 5. Code > Preferences > Color Theme > **2077**
 
 - [Marketplace](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)

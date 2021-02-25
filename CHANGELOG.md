@@ -1,6 +1,12 @@
 # Change Log
 All changes to the **"2077-theme"** extension will be documented in this file.
 
+## [1.5.2]
+
+- Update:
+    - Invalid color
+    - Fix typos
+
 ## [1.5.1]
 
 - Add:

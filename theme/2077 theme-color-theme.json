@@ -228,7 +228,7 @@
 		"name": "Invalid",
 		"scope": "invalid",
 		"settings": {
-			"foreground": "#ec107b",
+			"foreground": "#9e0a52",
 			"fontStyle": ""
 		}
 	},
